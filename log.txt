@@ -2,3 +2,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0907. 🔧 refactor: split large controller into smaller functions
 0948. 🐛 fix: fix broken CSS in mobile view
+0794. ♻️ chore: clean up unused files
