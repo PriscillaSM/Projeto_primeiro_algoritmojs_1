@@ -7,3 +7,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0870. ♻️ chore: clean up unused files
 0640. ♻️ chore: bump dependencies
+0809. ♻️ chore: rename env.example
