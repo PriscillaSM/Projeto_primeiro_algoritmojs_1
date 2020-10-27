@@ -35,3 +35,4 @@
 0076. 🎨 style: reformat files with black
 0226. 🚀 perf: lazy-load components
 0081. 🐛 fix: fix null pointer exception on login
+0028. 🎨 style: standardize quote style
