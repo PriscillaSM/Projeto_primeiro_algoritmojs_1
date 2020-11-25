@@ -43,3 +43,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0501. ✨ feat: add export to CSV option
 0182. 🔧 refactor: remove redundant code blocks
+0351. ✨ feat: add export to CSV option
