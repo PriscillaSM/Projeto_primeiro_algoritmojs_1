@@ -60,3 +60,4 @@
 0333. 🚀 perf: cache repeated calculations
 0765. ♻️ chore: clean up unused files
 0600. 🐛 fix: prevent crash on empty input
+0929. ✨ feat: support email verification
