@@ -61,3 +61,4 @@
 0765. ♻️ chore: clean up unused files
 0600. 🐛 fix: prevent crash on empty input
 0929. ✨ feat: support email verification
+0361. ✨ feat: support email verification
