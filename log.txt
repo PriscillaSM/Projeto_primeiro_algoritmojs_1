@@ -62,3 +62,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0929. ✨ feat: support email verification
 0361. ✨ feat: support email verification
+0115. 🚀 perf: reduce image load time
