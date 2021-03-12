@@ -67,3 +67,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0402. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
+0002. 🚀 perf: cache repeated calculations
