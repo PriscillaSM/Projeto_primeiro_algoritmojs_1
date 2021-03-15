@@ -69,3 +69,4 @@
 0373. 📚 docs: document token refresh logic
 0002. 🚀 perf: cache repeated calculations
 0932. ✅ test: add integration test for /submit endpoint
+0356. 📚 docs: write FAQ section
