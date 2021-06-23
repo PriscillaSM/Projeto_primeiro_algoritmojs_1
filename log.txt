@@ -89,3 +89,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0195. 📚 docs: clarify environment setup
 0975. 🎨 style: apply consistent indentation
+0590. 🐛 fix: fix null pointer exception on login
