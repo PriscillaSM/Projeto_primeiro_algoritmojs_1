@@ -92,3 +92,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0559. 🔧 refactor: split large controller into smaller functions
 0996. ✅ test: test user registration edge cases
+0651. ✨ feat: enable dark mode toggle
