@@ -106,3 +106,4 @@
 0440. 📚 docs: update README with setup steps
 0820. 📚 docs: add API usage examples
 0743. 🎨 style: apply consistent indentation
+0444. ✅ test: add unit test for quiz service
