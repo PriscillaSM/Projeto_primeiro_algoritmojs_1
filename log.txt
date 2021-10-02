@@ -111,3 +111,4 @@
 0379. ✨ feat: support email verification
 0792. 🎨 style: standardize quote style
 0756. ✨ feat: support email verification
+0746. ♻️ chore: add GitHub actions badge
