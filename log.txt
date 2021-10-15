@@ -112,3 +112,4 @@
 0792. 🎨 style: standardize quote style
 0756. ✨ feat: support email verification
 0746. ♻️ chore: add GitHub actions badge
+0846. ✨ feat: implement quiz timer feature
