@@ -114,3 +114,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0846. ✨ feat: implement quiz timer feature
 0731. 🎨 style: standardize quote style
+0735. ♻️ chore: add GitHub actions badge
