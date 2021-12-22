@@ -124,3 +124,4 @@
 0981. 🚀 perf: lazy-load components
 0203. 🚀 perf: lazy-load components
 0516. ✅ test: add unit test for quiz service
+0272. 🔧 refactor: remove redundant code blocks
