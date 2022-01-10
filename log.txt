@@ -126,3 +126,4 @@
 0516. ✅ test: add unit test for quiz service
 0272. 🔧 refactor: remove redundant code blocks
 0306. 🎨 style: apply consistent indentation
+0725. 🚀 perf: lazy-load components
