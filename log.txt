@@ -129,3 +129,4 @@
 0725. 🚀 perf: lazy-load components
 0898. 🐛 fix: fix broken CSS in mobile view
 0655. 🚀 perf: cache repeated calculations
+0287. 📚 docs: write FAQ section
