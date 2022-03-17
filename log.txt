@@ -139,3 +139,4 @@
 0116. ✨ feat: support email verification
 0712. 🎨 style: apply consistent indentation
 0918. ✨ feat: enable dark mode toggle
+0493. ✨ feat: add user authentication
