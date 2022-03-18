@@ -140,3 +140,4 @@
 0712. 🎨 style: apply consistent indentation
 0918. ✨ feat: enable dark mode toggle
 0493. ✨ feat: add user authentication
+0084. 🐛 fix: handle 500 error in quiz API
