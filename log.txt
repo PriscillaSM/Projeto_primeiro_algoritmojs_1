@@ -151,3 +151,4 @@
 0630. 🚀 perf: lazy-load components
 0622. 🎨 style: apply consistent indentation
 0124. 🎨 style: reformat files with black
+0484. 🐛 fix: handle 500 error in quiz API
