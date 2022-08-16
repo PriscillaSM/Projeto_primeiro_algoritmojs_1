@@ -170,3 +170,4 @@
 0526. ✨ feat: add user authentication
 0848. 📚 docs: update README with setup steps
 0974. ✨ feat: add export to CSV option
+0504. 📚 docs: document token refresh logic
