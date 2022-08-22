@@ -171,3 +171,4 @@
 0848. 📚 docs: update README with setup steps
 0974. ✨ feat: add export to CSV option
 0504. 📚 docs: document token refresh logic
+0521. 🎨 style: standardize quote style
