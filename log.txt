@@ -172,3 +172,4 @@
 0974. ✨ feat: add export to CSV option
 0504. 📚 docs: document token refresh logic
 0521. 🎨 style: standardize quote style
+0710. 🐛 fix: fix broken CSS in mobile view
