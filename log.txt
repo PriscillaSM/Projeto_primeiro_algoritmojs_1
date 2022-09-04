@@ -175,3 +175,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0880. 🐛 fix: fix broken CSS in mobile view
 0833. ✨ feat: add user authentication
+0383. 🐛 fix: fix broken CSS in mobile view
