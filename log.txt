@@ -178,3 +178,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0342. 🚀 perf: cache repeated calculations
 0169. 📚 docs: add API usage examples
+0320. 📚 docs: update README with setup steps
