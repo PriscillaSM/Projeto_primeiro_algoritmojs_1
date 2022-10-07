@@ -181,3 +181,4 @@
 0320. 📚 docs: update README with setup steps
 0277. 🎨 style: standardize quote style
 0585. 🚀 perf: lazy-load components
+0371. ✅ test: add integration test for /submit endpoint
