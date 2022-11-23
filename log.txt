@@ -191,3 +191,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0751. 🐛 fix: handle 500 error in quiz API
 0102. ✨ feat: support email verification
+0543. ✨ feat: support email verification
