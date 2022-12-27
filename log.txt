@@ -199,3 +199,4 @@
 0075. ✅ test: mock database connection in test suite
 0605. ✨ feat: support email verification
 0708. ✅ test: add integration test for /submit endpoint
+0524. ♻️ chore: rename env.example
