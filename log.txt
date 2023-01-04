@@ -201,3 +201,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0524. ♻️ chore: rename env.example
 0101. 📚 docs: clarify environment setup
+0316. 🐛 fix: fix broken CSS in mobile view
