@@ -207,3 +207,4 @@
 0980. 🎨 style: reformat files with black
 0583. ✅ test: increase coverage on auth module
 0014. 🔧 refactor: remove redundant code blocks
+0266. 🔧 refactor: remove redundant code blocks
