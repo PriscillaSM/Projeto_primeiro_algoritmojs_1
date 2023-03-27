@@ -215,3 +215,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0363. 📚 docs: clarify environment setup
 0785. ✨ feat: enable dark mode toggle
+0718. 🐛 fix: resolve issue with date parsing
