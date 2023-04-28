@@ -220,3 +220,4 @@
 0931. 🚀 perf: reduce image load time
 0786. ✨ feat: enable dark mode toggle
 0413. ✅ test: add integration test for /submit endpoint
+0219. ✅ test: increase coverage on auth module
