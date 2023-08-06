@@ -232,3 +232,4 @@
 0875. ✅ test: increase coverage on auth module
 0513. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
+0162. ♻️ chore: add GitHub actions badge
