@@ -236,3 +236,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0486. ✨ feat: add export to CSV option
 0406. ✨ feat: add export to CSV option
+0568. 🐛 fix: handle 500 error in quiz API
