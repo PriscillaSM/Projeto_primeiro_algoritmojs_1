@@ -237,3 +237,4 @@
 0486. ✨ feat: add export to CSV option
 0406. ✨ feat: add export to CSV option
 0568. 🐛 fix: handle 500 error in quiz API
+0556. ✨ feat: support email verification
