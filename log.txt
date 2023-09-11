@@ -242,3 +242,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0702. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
+0706. ✨ feat: support email verification
