@@ -264,3 +264,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0604. 📚 docs: add API usage examples
 0905. ♻️ chore: bump dependencies
+0988. 🐛 fix: fix broken CSS in mobile view
