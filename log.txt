@@ -267,3 +267,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0523. ♻️ chore: bump dependencies
 0822. 🔧 refactor: remove redundant code blocks
+0424. ✨ feat: add user authentication
