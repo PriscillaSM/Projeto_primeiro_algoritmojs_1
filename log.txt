@@ -269,3 +269,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0424. ✨ feat: add user authentication
 0308. 🚀 perf: reduce image load time
+0329. 📚 docs: update README with setup steps
