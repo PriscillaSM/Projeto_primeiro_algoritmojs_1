@@ -280,3 +280,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0793. 📚 docs: clarify environment setup
 0677. 📚 docs: add API usage examples
+0581. ✅ test: add integration test for /submit endpoint
