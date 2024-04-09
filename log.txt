@@ -288,3 +288,4 @@
 0385. ♻️ chore: clean up unused files
 0889. 🚀 perf: lazy-load components
 0212. 🎨 style: standardize quote style
+0197. 📚 docs: update README with setup steps
