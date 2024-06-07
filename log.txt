@@ -303,3 +303,4 @@
 0312. ✨ feat: add user authentication
 0945. ♻️ chore: add GitHub actions badge
 0795. 📚 docs: update README with setup steps
+0894. ✅ test: add integration test for /submit endpoint
