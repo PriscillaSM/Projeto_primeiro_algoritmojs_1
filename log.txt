@@ -309,3 +309,4 @@
 0864. 🐛 fix: correct typo in registration form
 0639. 🐛 fix: correct typo in registration form
 0580. ♻️ chore: bump dependencies
+0181. ♻️ chore: add GitHub actions badge
