@@ -310,3 +310,4 @@
 0639. 🐛 fix: correct typo in registration form
 0580. ♻️ chore: bump dependencies
 0181. ♻️ chore: add GitHub actions badge
+0973. 🔧 refactor: organize models into subfolders
