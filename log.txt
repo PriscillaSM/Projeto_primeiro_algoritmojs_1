@@ -316,3 +316,4 @@
 0883. 📚 docs: improve code comments in utils
 0358. 🚀 perf: reduce image load time
 0863. 🐛 fix: correct typo in registration form
+0801. ✨ feat: enable dark mode toggle
