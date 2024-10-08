@@ -326,3 +326,4 @@
 0964. ♻️ chore: clean up unused files
 0032. 🎨 style: apply consistent indentation
 0714. 📚 docs: improve code comments in utils
+0439. 🐛 fix: correct typo in registration form
