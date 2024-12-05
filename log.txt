@@ -340,3 +340,4 @@
 0510. 🎨 style: rename variables for clarity
 0813. 🔧 refactor: organize models into subfolders
 0109. 🚀 perf: lazy-load components
+0576. ♻️ chore: update .gitignore
