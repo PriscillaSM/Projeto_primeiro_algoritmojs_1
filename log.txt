@@ -343,3 +343,4 @@
 0576. ♻️ chore: update .gitignore
 0118. 🚀 perf: reduce image load time
 0681. ✨ feat: create admin dashboard
+0704. 🚀 perf: cache repeated calculations
