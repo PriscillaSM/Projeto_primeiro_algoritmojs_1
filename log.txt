@@ -344,3 +344,4 @@
 0118. 🚀 perf: reduce image load time
 0681. ✨ feat: create admin dashboard
 0704. 🚀 perf: cache repeated calculations
+0696. 🔧 refactor: clean up auth middleware
