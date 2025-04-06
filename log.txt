@@ -358,3 +358,4 @@
 0427. ✅ test: mock database connection in test suite
 0507. 🔧 refactor: clean up auth middleware
 0866. 📚 docs: add API usage examples
+0502. 📚 docs: update README with setup steps
