@@ -365,3 +365,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0994. 🚀 perf: reduce image load time
 0078. ♻️ chore: update .gitignore
+0750. 🎨 style: apply consistent indentation
