@@ -369,3 +369,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0586. 🎨 style: remove trailing whitespace
 0461. ✨ feat: add user authentication
+0305. ✨ feat: enable dark mode toggle
