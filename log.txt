@@ -370,3 +370,4 @@
 0586. 🎨 style: remove trailing whitespace
 0461. ✨ feat: add user authentication
 0305. ✨ feat: enable dark mode toggle
+0844. 📚 docs: update README with setup steps
