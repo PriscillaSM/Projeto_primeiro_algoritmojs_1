@@ -380,3 +380,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0302. ✨ feat: implement quiz timer feature
 0059. ♻️ chore: bump dependencies
+0621. 🔧 refactor: clean up auth middleware
